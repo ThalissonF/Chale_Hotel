@@ -1,0 +1,1 @@
+Projeto criado durante curso de frontend da Udemy para praticar o uso de HTML e CSS.
